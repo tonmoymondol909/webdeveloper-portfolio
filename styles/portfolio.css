@@ -110,3 +110,10 @@ main{
     display: flex;
     justify-content: space-around;
 }
+
+.about-info{
+    text-align: center;
+}
+#what-i-do-descriptio{
+    padding: 30px 150px;
+}
